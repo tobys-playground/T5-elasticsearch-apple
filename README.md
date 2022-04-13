@@ -20,6 +20,7 @@
 6) Port-forward Kibana to local port 5601: `kubectl port-forward deployment/kibana-kibana 5601`
 7) See Minikube details: `minikube dashboard`
 8) Open Kibana at 'localhost:5601'
+9) **Download the T5 tokenizer and model from HuggingFace**
 
 ## Main files
 
